@@ -42,7 +42,6 @@ body:
       label: Log file
       description: Please put the log file from your ``logs/`` folder in the exact same location as the game executable.
       placeholder: This currently only applies to v0.1.3a, which is currently unreleased.
-      render: shell
     validations:
       required: true
   - type: checkboxes
