@@ -51,5 +51,5 @@ body:
       label: a
       description: a
       options:
-        - label: I have updated to the latest version to make sure my bug hasnt been fixed.
+      - label: I have updated to the latest version to make sure my bug hasnt been fixed.
         required: true
